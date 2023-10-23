@@ -15,6 +15,9 @@ map.set(15937, '小啰');
 map.set(16750, '小算');
 map.set(13276, '小法');
 map.set(10583, '小鸭');
+map.set(10083, '小1鸭');
+map.set(10083, '小鸟');
+
 console.info('\n添加完成后，哈希表为\nKey -> Value');
 console.info(map);
 

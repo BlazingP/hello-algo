@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{07E91F16-5885-4B3C-B468-899575D222A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="codes/csharp/chapter_computational_complexity/iteration.cs">
+    <Files>
+      <File FileName="codes/csharp/chapter_computational_complexity/iteration.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.codes.hello-algo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

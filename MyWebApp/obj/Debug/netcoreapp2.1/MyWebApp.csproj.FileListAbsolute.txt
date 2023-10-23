@@ -1,0 +1,14 @@
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/bin/Debug/netcoreapp2.1/MyWebApp.deps.json
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/bin/Debug/netcoreapp2.1/MyWebApp.runtimeconfig.json
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/bin/Debug/netcoreapp2.1/MyWebApp.runtimeconfig.dev.json
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/bin/Debug/netcoreapp2.1/MyWebApp.dll
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/bin/Debug/netcoreapp2.1/MyWebApp.pdb
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.csprojAssemblyReference.cache
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.csproj.CoreCompileInputs.cache
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.RazorAssemblyInfo.cache
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.RazorAssemblyInfo.cs
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.AssemblyInfoInputs.cache
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.AssemblyInfo.cs
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.RazorTargetAssemblyInfo.cache
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.dll
+/Users/forblazingsakura/hello算法/hello-algo/MyWebApp/obj/Debug/netcoreapp2.1/MyWebApp.pdb

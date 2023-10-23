@@ -31,8 +31,13 @@ class HashMapChaining {
 
     /* 哈希函数 */
     #hashFunc(key) {
-        return key % this.#capacity;
+        let index = key % this.#capacity;
+        while (this.#buckets[index].length > 0) {
+            index = (index + 1) % this.#capacity;
+        }
+        return index;
     }
+    
 
     /* 负载因子 */
     #loadFactor() {
@@ -127,6 +132,8 @@ map.put(15937, '小啰');
 map.put(16750, '小算');
 map.put(13276, '小法');
 map.put(10583, '小鸭');
+map.put(10083, '小1鸭');
+
 console.log('\n添加完成后，哈希表为\nKey -> Value');
 map.print();
 
